@@ -104,7 +104,7 @@ export default function Home() {
 
             </section >
             <section className=" overflow-hidden  bg-[#FFF]">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52856920.36508397!2d-161.635942460536!3d36.04152347094136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sUnited%20States!5e0!3m2!1sen!2sin!4v1742812612872!5m2!1sen!2sin" width="1920" height="900"  loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52856920.36508397!2d-161.635942460536!3d36.04152347094136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sUnited%20States!5e0!3m2!1sen!2sin!4v1742812612872!5m2!1sen!2sin" width="1920" height="900"  loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
             </section>
             <Footer/>
         </>

@@ -274,27 +274,27 @@ export default function Home() {
 
                                             <div className="col-lg-8 flex  gap-2 lg:pt-[30px] pt-[15px] ">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 24" width="30" height="24" color="#19B500" fill="none">
-                                                    <path d="M5 14L8.5 17.5L19 6.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinecap="round" />
+                                                    <path d="M5 14L8.5 17.5L19 6.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
                                                 </svg>
                                                 <p className="lg:text-[1vw] text-[3vw] font-medium lg:leading-[1vw] leading-[3vw] ">Includes doola Invoicing</p></div>
                                             <div className="col-lg-10 flex  gap-2 lg:pt-[0px] pt-[5px] ">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 24" width="30" height="24" color="#19B500" fill="none">
-                                                    <path d="M5 14L8.5 17.5L19 6.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinecap="round" />
+                                                    <path d="M5 14L8.5 17.5L19 6.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
                                                 </svg>
                                                 <p className="lg:text-[1vw] text-[3vw] font-medium lg:leading-[1vw] leading-[3vw] ">Connect multiple bank accounts to manage transactions all in one platform</p></div>
                                             <div className="col-lg-10 flex  gap-2 lg:pt-[10px] pt-[5px] ">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 24" width="30" height="24" color="#19B500" fill="none">
-                                                    <path d="M5 14L8.5 17.5L19 6.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinecap="round" />
+                                                    <path d="M5 14L8.5 17.5L19 6.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
                                                 </svg>
                                                 <p className="lg:text-[1vw] text-[3vw] font-medium lg:leading-[1vw] leading-[3vw] ">Tag and categorize income and expense transactions</p></div>
                                             <div className="col-lg-8 flex  gap-2 lg:pt-[10px] pt-[5px] ">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 24" width="30" height="24" color="#19B500" fill="none">
-                                                    <path d="M5 14L8.5 17.5L19 6.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinecap="round" />
+                                                    <path d="M5 14L8.5 17.5L19 6.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
                                                 </svg>
                                                 <p className="lg:text-[1vw] text-[3vw] font-medium lg:leading-[1vw] leading-[3vw] ">Upload and attach receipts to transactions</p></div>
                                             <div className="col-lg-10 flex  gap-2 lg:pt-[10px] pt-[5px] ">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 24" width="30" height="24" color="#19B500" fill="none">
-                                                    <path d="M5 14L8.5 17.5L19 6.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinecap="round" />
+                                                    <path d="M5 14L8.5 17.5L19 6.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
                                                 </svg>
                                                 <p className="lg:text-[1vw] text-[3vw] font-medium lg:leading-[1vw] leading-[3vw] ">Build automated rules for tagging income or expense transactions</p>
 
@@ -329,27 +329,27 @@ export default function Home() {
 
                                             <div className="col-lg-10 flex  gap-2 lg:pt-[30px] pt-[15px] ">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 24" width="30" height="24" color="#19B500" fill="none">
-                                                    <path d="M5 14L8.5 17.5L19 6.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinecap="round" />
+                                                    <path d="M5 14L8.5 17.5L19 6.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
                                                 </svg>
                                                 <p className="lg:text-[1vw] text-[3vw] font-medium lg:leading-[1vw] leading-[3vw] ">Dedicated bookkeeping team of Certified Public Accountant’s</p></div>
                                             <div className="col-lg-8 flex  gap-2 lg:pt-[0px] pt-[5px] ">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 24" width="30" height="24" color="#19B500" fill="none">
-                                                    <path d="M5 14L8.5 17.5L19 6.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinecap="round" />
+                                                    <path d="M5 14L8.5 17.5L19 6.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
                                                 </svg>
                                                 <p className="lg:text-[1vw] text-[3vw] font-medium lg:leading-[1vw] leading-[3vw] ">1,200 transactions / year*</p></div>
                                             <div className="col-lg-10 flex  gap-2 lg:pt-[10px] pt-[5px] ">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 24" width="20" height="24" color="#19B500" fill="none">
-                                                    <path d="M5 14L8.5 17.5L19 6.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinecap="round" />
+                                                    <path d="M5 14L8.5 17.5L19 6.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
                                                 </svg>
                                                 <p className="lg:text-[1vw] text-[3vw] font-medium lg:leading-[1vw] leading-[3vw] ">Categorization of business transactions</p></div>
                                             <div className="col-lg-12 flex  gap-2 lg:pt-[10px] pt-[5px] ">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 24" width="30" height="24" color="#19B500" fill="none">
-                                                    <path d="M5 14L8.5 17.5L19 6.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinecap="round" />
+                                                    <path d="M5 14L8.5 17.5L19 6.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
                                                 </svg>
                                                 <p className="lg:text-[1vw] text-[3vw] font-medium lg:leading-[1vw] leading-[3vw] ">Reconciliation of business bank and credit card accounts (unlimited bank accounts and channels of revenue allowed)</p></div>
                                             <div className="col-lg-10 flex  gap-2 lg:pt-[10px] pt-[5px] ">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 24" width="30" height="24" color="#19B500" fill="none">
-                                                    <path d="M5 14L8.5 17.5L19 6.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinecap="round" />
+                                                    <path d="M5 14L8.5 17.5L19 6.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
                                                 </svg>
                                                 <p className="lg:text-[1vw] text-[3vw] font-medium lg:leading-[1vw] leading-[3vw] ">Ongoing Bookkeeping support</p>
 
